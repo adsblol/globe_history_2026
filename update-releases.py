@@ -132,7 +132,7 @@ with open("README.md", "r") as f:
 with open("README.md", "w") as f:
     f.write(readme)
 
-with open("ALL_RELEASES.txt", "a") as f:
+with open("ALL_RELEASES.txt", "w") as f:
     for date in all_releases_per_day.keys():
         for links in all_releases_per_day[date]:
             f.write(",".join(links) + "\n")
