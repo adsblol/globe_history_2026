@@ -1,7 +1,11 @@
+https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.07-planes-readsb-prod-0/v2026.05.07-planes-readsb-prod-0.tar
+https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.07-planes-readsb-mlatonly-0/v2026.05.07-planes-readsb-mlatonly-0.tar
 https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.06-planes-readsb-mlatonly-0/v2026.05.06-planes-readsb-mlatonly-0.tar
+https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.05-planes-readsb-staging-0/v2026.05.05-planes-readsb-staging-0.tar
+https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.05-planes-readsb-prod-0/v2026.05.05-planes-readsb-prod-0.tar
 https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.05-planes-readsb-mlatonly-0/v2026.05.05-planes-readsb-mlatonly-0.tar
 https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.04-planes-readsb-staging-0/v2026.05.04-planes-readsb-staging-0.tar.aa,https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.04-planes-readsb-staging-0/v2026.05.04-planes-readsb-staging-0.tar.ab
-https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.04-planes-readsb-prod-0/v2026.05.04-planes-readsb-prod-0.tar.aa
+https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.04-planes-readsb-prod-0/v2026.05.04-planes-readsb-prod-0.tar.aa,https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.04-planes-readsb-prod-0/v2026.05.04-planes-readsb-prod-0.tar.ab
 https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.04-planes-readsb-mlatonly-0/v2026.05.04-planes-readsb-mlatonly-0.tar
 https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.03-planes-readsb-staging-0/v2026.05.03-planes-readsb-staging-0.tar.aa,https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.03-planes-readsb-staging-0/v2026.05.03-planes-readsb-staging-0.tar.ab
 https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.03-planes-readsb-prod-0/v2026.05.03-planes-readsb-prod-0.tar.aa,https://github.com/adsblol/globe_history_2026/releases/download/v2026.05.03-planes-readsb-prod-0/v2026.05.03-planes-readsb-prod-0.tar.ab
