@@ -1,4 +1,4 @@
-# adsblol/globe_history_2026 (1998 GiB)
+# adsblol/globe_history_2026 (2006 GiB)
 
 This database is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/.
 
